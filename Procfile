@@ -1,2 +1,2 @@
 #worker: python3 bot.py
-web: gunicorn app:plugins 
+web: gunicorn bot.py
